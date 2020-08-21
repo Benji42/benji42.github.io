@@ -50,12 +50,16 @@ h1, h2, h3 {
   h1 {
     font-size: 40px;
   }
-  
+
   h2 {
     font-size: 20px;
     font-weight: normal;
   }
-  
+
+  #demos {
+    width: 60%;
+  }
+
 }
 
 
