@@ -57,7 +57,7 @@ h1, h2, h3 {
   }
 
   #demos {
-    width: 60%;
+    width: 100%;
   }
 
 }
@@ -82,7 +82,7 @@ h1, h2, h3 {
 }
 
 #demos {
-  width: 100%;
+  width: 60%;
 }
 
 #socials {
