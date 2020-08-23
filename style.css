@@ -76,7 +76,6 @@ h1, h2, h3 {
 }
 
 .socials {
-  margin: 7px 10px 7px 10px;
   padding: 0px 5px 0px 5px;
   width: max-content;
   outline: 2px solid #72808C;
@@ -85,6 +84,18 @@ h1, h2, h3 {
   float: left;
   font-weight: bold;
 }
+
+  .parent {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .box {
+    flex: 1 1 150px; /*  Stretching: */
+    flex: 0 1 20px; /*  No stretching: */
+      margin: 7px 10px 7px 10px;
+  }
 
 @media only screen and (max-width: 900px) {
   #container {
