@@ -94,7 +94,7 @@ h1, h2, h3 {
   .box {
     flex: 1 1 150px; /*  Stretching: */
     flex: 0 1 20px; /*  No stretching: */
-      margin: 7px 10px 7px 10px;
+    margin: 7px 10px 7px 10px;
   }
 
 @media only screen and (max-width: 900px) {
