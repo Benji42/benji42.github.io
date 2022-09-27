@@ -1,5 +1,10 @@
+@font-face {
+    font-family: "ちはや純";
+    src: url(fonts/ちはや純.ttf);
+}
+
 body {
-    font-family: "Chihaya Jyun", Arial, Helvetica, sans-serif;
+    font-family: "ちはや純", Arial, Helvetica, sans-serif;
     background-color: #0A052E;
   }
 
