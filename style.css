@@ -72,6 +72,10 @@ h1 {
     font-size: 40;
 }
 
+h2 {
+    font-size: 32;
+}
+
 h3 {
     font-size: 25;
 }
@@ -107,14 +111,18 @@ td, th {
     padding-left: 10px;
     padding-right: 10px;
     border: 1px solid;
-    font-size: 14;
+}
+
+.ipa {
+  font-family: "Nunito", sans-serif;
+  font-size: 14;
+  vertical-align: 15%;
 }
 
 table {
     border-collapse: collapse;
     text-align: center;
     vertical-align: middle;
-    font-family: "Nunito", sans-serif;
     margin: 10px;
     margin-left: 20px;
     color: #FFFFFF;
