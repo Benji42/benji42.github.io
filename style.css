@@ -171,9 +171,17 @@ h4 {
         margin-bottom: -15px;
     }
 
+    .subtitle {
+        font-size: 30;
+    }
+
     .inline-image {
         height: 40px;
         width: 40px;
+    }
+
+    .h {
+        width: fit-content;
     }
   
   }
