@@ -65,7 +65,7 @@ p {
 }
 
 .j {
-    padding: 10px;
+    padding-left: 10px;
 }
 
 h1 {
@@ -132,4 +132,15 @@ table {
 
 li {
     font-size: 22;
+}
+
+.inline-image {
+    height: 30px;
+    width: 30px;
+    vertical-align: -30%;
+}
+
+h4 {
+    font-size: 22;
+    margin-bottom: -10px;
 }
